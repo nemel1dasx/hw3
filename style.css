@@ -3,7 +3,7 @@ header {
 }
 
 p {
-  font-size: 45px;
+  font-size: 44px;
   font-family: "PT Sans Narrow", sans-serif;
   color: yellow;
 }
@@ -15,7 +15,7 @@ body {
 div{
     font-family: "PT Sans Narrow", sans-serif;
     color: khaki;
-    font-size: 30px;
+    font-size: 29px;
 }
 
 img {
@@ -24,7 +24,7 @@ img {
 }
 a{
     color: khaki;
-    font-size: 30px;
+    font-size: 29px;
 }
 
 .contact{
