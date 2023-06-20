@@ -1,0 +1,33 @@
+header {
+  color: yellow;
+}
+
+p {
+  font-size: 45px;
+  font-family: "PT Sans Narrow", sans-serif;
+  color: yellow;
+}
+
+body {
+  background: url(https://wallpapercave.com/wp/wp2620439.jpg);
+}
+
+div{
+    font-family: "PT Sans Narrow", sans-serif;
+    color: khaki;
+    font-size: 30px;
+}
+
+img {
+  padding: 5px; /* толщина */
+  background: goldenrod; /* цвет */
+}
+a{
+    color: khaki;
+    font-size: 30px;
+}
+
+.contact{
+    font-size: 30px;
+}
+
